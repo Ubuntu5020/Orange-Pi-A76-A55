@@ -13,7 +13,7 @@ Here is a list of features done by the installation script:
 
 1. Clone repo with:
 ```
-git clone https://github.com/Darktron/piccminer.git && cd ~/piccminer
+git clone https://github.com/Ubuntu5020/Orange-Pi-A76-A55.git
 ```
 
 2. Make executable & run installer with:
